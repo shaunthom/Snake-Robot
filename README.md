@@ -4,4 +4,4 @@ It was funded by the Kerala State Council for Science, Technology and Environmen
 
 I have included all the required coding in appropriate files. The language is written in Arduino IDE.
 Below are some snapshots:
-![Live Img](Snake-Robot.jpg)
+![Live Img](Snake-Robot.jpeg)
