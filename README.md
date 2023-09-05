@@ -28,6 +28,11 @@ This Arduino code establishes wireless communication between a client and a serv
 
 The server receives the joystick data, processes it, and sends a reply back to the client. The client waits for this reply and displays it on the serial monitor. The NRF24 modules communicate in a point-to-point manner, allowing remote control or data exchange between devices. 
 
+### Results and Further Scope:
+
+Our model successfully navigated through smoke-filled rooms, identifying hazardous materials or obstacles. The sensor detection range was up to 10 meters. This is a good result considering the entire cost of the project. The wireless Data Transmission Latency was also less than 10 milliseconds, which is really impressive. Most of the demo users found the joystick control to be intuitive. The power efficiency was also good as our prototype ran non-stop for about 90 minutes.
+It is possible to add more features like facial recognition and advanced obstacle avoidance in future.
+
    
 Below are some snapshots:
 ![Live Img](Snake-Robot.jpeg)
